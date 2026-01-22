@@ -45,8 +45,3 @@ npm install
 npm run dev
 ```
 The application will be available at `http://localhost:3000`.
-
-## 📦 Project Structure
-- `backend/`: ASP.NET Core Web API project
-- `frontend/`: Next.js frontend application
-- `Picture/`: Project design assets/screenshots
