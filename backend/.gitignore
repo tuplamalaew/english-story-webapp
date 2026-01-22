@@ -1,0 +1,39 @@
+# ===================
+# ASP.NET Core
+# ===================
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+appsettings.Production.json
+
+# User secrets
+secrets.json
+
+# ===================
+# Publish output
+# ===================
+publish_output/
+deploy_temp/
+*.zip
+
+# ===================
+# Logs
+# ===================
+*.log
+
+# ===================
+# IDE
+# ===================
+.vs/
+.vscode/
+.idea/
+
+# ===================
+# Node.js (Frontend)
+# ===================
+node_modules/
+.next/
+out/

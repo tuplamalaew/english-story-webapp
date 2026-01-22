@@ -1,0 +1,33 @@
+1:"$Sreact.fragment"
+2:I[80492,["/_next/static/chunks/138c3a05baf15bf1.js"],"ThemeProvider"]
+3:I[87771,["/_next/static/chunks/138c3a05baf15bf1.js"],"default"]
+4:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/a2dfb6fc5208ab9b.js"],"default"]
+5:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/a2dfb6fc5208ab9b.js"],"default"]
+6:I[62474,["/_next/static/chunks/138c3a05baf15bf1.js"],"ThemeToggle"]
+7:I[47257,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/a2dfb6fc5208ab9b.js"],"ClientPageRoot"]
+8:I[31713,["/_next/static/chunks/138c3a05baf15bf1.js","/_next/static/chunks/18f8fbbe6fd6b742.js"],"default"]
+b:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/a2dfb6fc5208ab9b.js"],"OutletBoundary"]
+c:"$Sreact.suspense"
+e:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/a2dfb6fc5208ab9b.js"],"ViewportBoundary"]
+10:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/a2dfb6fc5208ab9b.js"],"MetadataBoundary"]
+12:I[68027,[],"default"]
+:HL["/_next/static/chunks/74353a7a04cdf8ff.css","style"]
+:HL["/_next/static/media/0020773107769bf5-s.p.2b4bdb7f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/012e727fc018a19f-s.p.61dec737.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/177d95d15dbd19d3-s.p.9c024a1b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/18681fce5796cb08-s.p.c94a5dfb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1aca6a6e0c6cb071-s.p.8402288a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/24bc33ae821208b7-s.p.714da535.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4ae2e992fa830df4-s.p.ccba47b4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/69a3e7dbb4757b9c-s.p.9028ddcf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/77b67a77d62f7772-s.p.68a166f7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/90a6d5b71415724d-s.p.ee6c0eb1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a3150755b153d765-s.p.c08082a3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d0aeca6cdfe31f90-s.p.36454c57.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"uEu6tNC-ZSAzM9NbrnIbr","c":["",""],"q":"","i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/74353a7a04cdf8ff.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/138c3a05baf15bf1.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"mali_fbe785e8-module__QjD5wG__variable antialiased font-sans flex h-screen bg-zinc-50 dark:bg-zinc-900 overflow-hidden","children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"className":"flex-1 flex flex-col ml-64 h-screen overflow-hidden","children":["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","div",null,{"className":"fixed bottom-6 right-6 z-50","children":["$","$L6",null,{"className":"shadow-2xl scale-125 border border-zinc-200 dark:border-zinc-700"}]}]]}]}]}]]}],{"children":[["$","$1","c",{"children":[["$","$L7",null,{"Component":"$8","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@9","$@a"]}}],[["$","script","script-0",{"src":"/_next/static/chunks/18f8fbbe6fd6b742.js","async":true,"nonce":"$undefined"}]],["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],{},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$c",null,{"name":"Next.Metadata","children":"$L11"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$12",[]],"S":true}
+9:{}
+a:"$0:f:0:1:1:children:0:props:children:0:props:serverProvidedParams:params"
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+13:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/a2dfb6fc5208ab9b.js"],"IconMark"]
+d:null
+11:[["$","title","0",{"children":"English Story"}],["$","meta","1",{"name":"description","content":"Learn English through stories"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L13","3",{}]]
